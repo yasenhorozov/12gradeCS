@@ -1,0 +1,15 @@
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/bin/Debug/net5.0/PhonebookApp.deps.json
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/bin/Debug/net5.0/PhonebookApp.runtimeconfig.json
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/bin/Debug/net5.0/PhonebookApp.runtimeconfig.dev.json
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/bin/Debug/net5.0/PhonebookApp.dll
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/bin/Debug/net5.0/ref/PhonebookApp.dll
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/bin/Debug/net5.0/PhonebookApp.pdb
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/obj/Debug/net5.0/PhonebookApp.csprojAssemblyReference.cache
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/obj/Debug/net5.0/PhonebookApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/obj/Debug/net5.0/PhonebookApp.AssemblyInfoInputs.cache
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/obj/Debug/net5.0/PhonebookApp.AssemblyInfo.cs
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/obj/Debug/net5.0/PhonebookApp.csproj.CoreCompileInputs.cache
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/obj/Debug/net5.0/PhonebookApp.dll
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/obj/Debug/net5.0/ref/PhonebookApp.dll
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/obj/Debug/net5.0/PhonebookApp.pdb
+/Users/account2/Documents/school/school/School/PhonebookApp/PhonebookApp/obj/Debug/net5.0/PhonebookApp.genruntimeconfig.cache
